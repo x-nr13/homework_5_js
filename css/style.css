@@ -1,0 +1,43 @@
+#mySquare {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  transition: background-color 0.5s, width 0.5s, height 0.5s;
+}
+
+#mySquare.small {
+  width: 100px;
+  height: 100px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+/* **************** */
+
+#customSquare {
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+}
+
+.blue {
+  background-color: blue;
+}
+
+/* **************** */
+
+#square {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+}
+
+.root1 {
+  margin-top: 10px;
+}
+
+.root2 {
+  margin-top: 10px;
+}
